@@ -11,8 +11,8 @@
 - 🧠 **Emotion Detection**: Upload a selfie and Feelora detects your current mood using state-of-the-art AI models.
 - 🎵 **Music Vibes**: Get a curated playlist that matches your mood and language (English, Tamil, Hindi).
 - 🎨 **Mood Color & Wallpaper**: Your detected mood generates matching background color and optional AI wallpaper.
-- 🌸 **Mood Scent (Concept)**: Suggests a scent profile based on your emotional state.
-- 🖼️ **Mood Card Generator**: Download a personalized card with your mood, emotion color, and emoji avatar.
+- 🌸 **Mood Scent**: Suggests a scent profile based on your emotional state.
+- 🖼️ **Mood Card Generator**: Download a personalized card with your mood, emotion color, and MoodScent.
 - 🪄 **Daily NFT Concept**: Each mood can become a collectible — a unique visual avatar NFT (future feature).
 
 ---
@@ -29,7 +29,6 @@
 - `DeepFace` – for face-based emotion detection
 - `Spotify API` – for real-time playlist generation
 - `Stable Diffusion` – for AI-generated wallpapers
-- `OpenCV` + `Pillow` – for image manipulation and mood card rendering
 
 ---
 
