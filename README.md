@@ -1,6 +1,6 @@
 # 🌈 Feelora
 
-![Feelora Banner](https://raw.githubusercontent.com/Ruusheka/Feelora/main/image.png)
+![Feelora Banner](https://raw.githubusercontent.com/Ruusheka/Feelora/main/asset/image.png)
 
 > **Feelora** is an AI-powered mood detection app that reads your emotion from a selfie and vibes back with personalized music, scent, color themes, and a downloadable mood card — all in real time.
 
@@ -37,7 +37,7 @@
 
 | Mood Detection | Playlist Suggestion | Mood Card |
 |----------------|---------------------|-----------|
-| ![Detect](https://raw.githubusercontent.com/Ruusheka/Feelora/main/assets/detect.png) | ![Music](https://raw.githubusercontent.com/Ruusheka/Feelora/main/assets/music.png) | ![Card](https://raw.githubusercontent.com/Ruusheka/Feelora/main/assets/card.png) |
+| ![Detect](https://raw.githubusercontent.com/Ruusheka/Feelora/main/assets/pic1.png) | ![Music](https://raw.githubusercontent.com/Ruusheka/Feelora/main/assets/pic2.png) | ![Card](https://raw.githubusercontent.com/Ruusheka/Feelora/main/assets/pic3.png) |
 
 ---
 
