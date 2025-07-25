@@ -37,7 +37,7 @@
 
 | Mood Detection | Playlist Suggestion | Mood Card |
 |----------------|---------------------|-----------|
-| ![Detect](https://raw.githubusercontent.com/Ruusheka/Feelora/main/assets/pic1.png) | ![Music](https://raw.githubusercontent.com/Ruusheka/Feelora/main/assets/pic2.png) | ![Card](https://raw.githubusercontent.com/Ruusheka/Feelora/main/assets/pic3.png) |
+| ![Detect](https://raw.githubusercontent.com/Ruusheka/Feelora/main/asset/pic1.png) | ![Music](https://raw.githubusercontent.com/Ruusheka/Feelora/main/asset/pic2.png) | ![Card](https://raw.githubusercontent.com/Ruusheka/Feelora/main/asset/pic3.png) |
 
 ---
 
